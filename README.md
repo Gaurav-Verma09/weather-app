@@ -33,3 +33,6 @@ A React-based weather application that fetches real-time weather data using Open
 
 ## 👨‍💻 Author
 Gaurav Verma
+
+<img width="1837" height="883" alt="image" src="https://github.com/user-attachments/assets/8f922011-9392-4c61-aaaf-62beb37780ba" />
+
